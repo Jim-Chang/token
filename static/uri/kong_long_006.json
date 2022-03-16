@@ -1,0 +1,24 @@
+{
+	"description": "Kong Long wear glasses.", 
+	"external_url": "https://koding.work/kong-long-nft/", 
+	"image": "ipfs://QmRtYCJFCF7xfwRsnujGnS6NBPfaXc5iDwDbKkoKYvgNtH", 
+	"name": "KongLong #6",
+	"attributes": [
+		{
+			"trait_type": "Doing", 
+      		"value": "Wear glasses"
+		},
+		{
+			"trait_type": "Eyes", 
+      		"value": "Behine glasses"
+		},
+		{
+			"trait_type": "Body", 
+	  		"value": "Small"
+		},
+		{
+			"trait_type": "Head", 
+	  		"value": "Big"
+		}
+	]
+  }

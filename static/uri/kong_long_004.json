@@ -1,0 +1,24 @@
+{
+	"description": "Kong Long is very fashion!", 
+	"external_url": "https://koding.work/kong-long-nft/", 
+	"image": "ipfs://QmfRKLvoBq4Lyyqd9XaEZtB4SZeQsBcDwSzFHFCqM1Gxth", 
+	"name": "KongLong #4",
+	"attributes": [
+		{
+			"trait_type": "Doing", 
+      		"value": "Fasion"
+		},
+		{
+			"trait_type": "Eyes", 
+      		"value": "Medium"
+		},
+		{
+			"trait_type": "Body", 
+	  		"value": "Medium"
+		},
+		{
+			"trait_type": "Head", 
+	  		"value": "Medium"
+		}
+	]
+  }

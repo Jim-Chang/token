@@ -1,0 +1,28 @@
+{
+	"description": "Kong Long say: Happy new year!", 
+	"external_url": "https://koding.work/kong-long-nft/", 
+	"image": "ipfs://QmcV38FD4qZBs9K8SafexvKZ3kbd1bxHVCLew7E4W61cCT", 
+	"name": "KongLong #1",
+	"attributes": [
+		{
+			"trait_type": "Festival", 
+      		"value": "CNY"
+		},
+		{
+			"trait_type": "Doing",
+			"value": "Be cute"
+		},
+		{
+			"trait_type": "Eyes", 
+      		"value": "Big"
+		},
+		{
+			"trait_type": "Body", 
+	  		"value": "None"
+		},
+		{
+			"trait_type": "Head", 
+	  		"value": "Big"
+		}
+	]
+  }

@@ -1,0 +1,24 @@
+{
+	"description": "Kong Long rock and roll!", 
+	"external_url": "https://koding.work/kong-long-nft/", 
+	"image": "ipfs://QmbmCdPj9g31bf4CfRNnPvypEKXQEk1CvhhNfPv7DMC436", 
+	"name": "KongLong #2",
+	"attributes": [
+		{
+			"trait_type": "Doing", 
+      		"value": "Rock&Roll"
+		},
+		{
+			"trait_type": "Eyes", 
+      		"value": "Behine glasses"
+		},
+		{
+			"trait_type": "Body", 
+	  		"value": "Medium"
+		},
+		{
+			"trait_type": "Head", 
+	  		"value": "Big"
+		}
+	]
+  }
