@@ -1,0 +1,24 @@
+{
+	"description": "Kong Long is King.",
+	"external_url": "https://koding.work/kong-long-nft/",
+	"image": "ipfs://QmXqXnbXDuKsJviZYXMpvX7BgcEo3BEqwxETsKJJJqcZfN",
+	"name": "KongLong #7",
+	"attributes": [
+		{
+			"trait_type": "Doing",
+			"value": "Be King"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Small"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Small"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Small"
+		}
+	]
+}

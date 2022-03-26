@@ -2,31 +2,36 @@
     {
         "id": 1,
         "uri": "QmXfFYmRnEGnWbnUfRsVMZz4pF9gY9wyJfkGUMsfnpndUH",
-		"owner": "0xB4531a14fd2d92C5026B8EdCA8fAEB3104Bd0a85"
+        "owner": "0xB4531a14fd2d92C5026B8EdCA8fAEB3104Bd0a85"
     },
     {
         "id": 2,
         "uri": "QmSS7d8LnML9R7zLaDfqivjFdRTp7a33udGNZ5cNoTFQAf",
-		"owner": null
+        "owner": null
     },
-	{
+    {
         "id": 3,
         "uri": "QmNuoGUAixywGgSBzThegvxACNn7VQ1Hzzwozx82fWXkrZ",
-		"owner": "0xB4531a14fd2d92C5026B8EdCA8fAEB3104Bd0a85"
+        "owner": "0xB4531a14fd2d92C5026B8EdCA8fAEB3104Bd0a85"
     },
-	{
+    {
         "id": 4,
         "uri": "QmQrUs9JTM3ZdjYxqmk12dFKWB4su9pAJMNsTRMmRhuT1s",
-		"owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
+        "owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
     },
-	{
+    {
         "id": 5,
         "uri": "QmRcgDYVG1WQVUYtW4JfWQuiYLRgP5oFUPpZmQKPk7y3gM",
-		"owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
+        "owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
     },
-	{
+    {
         "id": 6,
         "uri": "QmYALw7QMBVrP4xoLcXFqF3kXgxgQ2DWpzfAUJTWrg3USo",
-		"owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
+        "owner": "0x90fd1ab785328456cd5d71acb8265fc8b771791c"
+    },
+    {
+        "id": 7,
+        "uri": "QmVe8ga5szTAyfNDsCHHqW8vR7L4fAkhxJzK6U7fxHP8nW",
+        "owner": "0xB4531a14fd2d92C5026B8EdCA8fAEB3104Bd0a85"
     }
 ]
