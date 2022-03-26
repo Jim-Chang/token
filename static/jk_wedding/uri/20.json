@@ -1,0 +1,20 @@
+{
+	"description": "",
+	"external_url": "",
+	"image": "ipfs://QmZrRGidPRsm11oPvPBhQH1vt8hQ9rBtfc78i4DydTF4R4/20.jpg",
+	"name": "J&K Wedding #20",
+	"attributes": [
+		{
+			"trait_type": "Suit",
+			"value": "Type 3"
+		},
+		{
+			"trait_type": "Dress",
+			"value": "Type 3"
+		},
+		{
+			"trait_type": "Place",
+			"value": "Type 5"
+		}
+	]
+}

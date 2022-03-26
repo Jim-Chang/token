@@ -1,0 +1,24 @@
+{
+	"description": "",
+	"external_url": "",
+	"image": "ipfs://QmZrRGidPRsm11oPvPBhQH1vt8hQ9rBtfc78i4DydTF4R4/15.jpg",
+	"name": "J&K Wedding #15",
+	"attributes": [
+		{
+			"trait_type": "Suit",
+			"value": "Type 2"
+		},
+		{
+			"trait_type": "Dress",
+			"value": "Type 2"
+		},
+		{
+			"trait_type": "Place",
+			"value": "Type 3"
+		},
+		{
+			"trait_type": "Motocycle",
+			"value": "Hartford 雲豹 200S"
+		}
+	]
+}
