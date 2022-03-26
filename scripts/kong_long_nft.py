@@ -22,7 +22,7 @@ def auto_mint():
     account = get_account()
     current_token_id = nft.getCurrentTokenId({"from": account})
 
-    with open("static/kong_long.json", "r") as f:
+    with open("static/kong_long/kong_long.json", "r") as f:
         data = json.load(f)
 
     for item in data:
