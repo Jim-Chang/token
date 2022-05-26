@@ -1,0 +1,28 @@
+{
+	"description": "Kong Long eat McDonald's for breakfast.",
+	"external_url": "https://koding.work/kong-long-nft/",
+	"image": "ipfs://QmVGWzgoAX4HuhGCk4XkNHB6XnG8jQjVv8b26aMntdQq3T",
+	"name": "KongLong #8",
+	"attributes": [
+		{
+			"trait_type": "Doing",
+			"value": "Eating"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Big"
+		},
+		{
+			"trait_type": "Body",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Big"
+		},
+		{
+			"trait_type": "Food",
+			"value": "McDonald's"
+		}
+	]
+}
